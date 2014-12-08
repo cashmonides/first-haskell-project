@@ -1,0 +1,13 @@
+money,PECUN
+frog,RAN
+queen,REGIN
+eagle,AQUIL
+bear,URS
+wolf,LUP
+bull,TAUR
+lizard,LACERT
+lion,LEON
+dog,CAN
+bird,AV
+mouse,MUR
+cow,BOV

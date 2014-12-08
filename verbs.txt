@@ -1,0 +1,13 @@
+love,AM
+eat,VOR
+carry,PORT
+attack,OPPUGN
+fear,TIM
+scare,TERR
+see,VID
+send,MITT
+rule,REG
+conquer,VINC
+grab,CAP
+hear,AUD
+find,INVEN
